@@ -4,3 +4,4 @@ practice project 1
 hello
 
 this is the biggest potato yet //had to make wood work
+welcome to ketchup town
